@@ -26,14 +26,14 @@
         android:id="@+id/bt1"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:text="Test"
+        android:text="Left"
         android:textSize="8sp"></Button>
 
         <Button
             android:id="@+id/bt2"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:text="Test2"
+            android:text="Right"
             android:textSize="8sp"></Button>
     </LinearLayout>
     <LinearLayout android:orientation="horizontal"
