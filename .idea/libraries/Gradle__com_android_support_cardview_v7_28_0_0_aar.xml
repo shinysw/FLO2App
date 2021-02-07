@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:cardview-v7:28.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BlunoBasicDemo/Android/BlunoBasicDemo/app/caches/transforms-2/files-2.1/a5b6877bcea0689f47298d4df66df601/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../BlunoBasicDemo/Android/BlunoBasicDemo/app/caches/transforms-2/files-2.1/a5b6877bcea0689f47298d4df66df601/res" />
+      <root url="file://$PROJECT_DIR$/../BlunoBasicDemo/Android/BlunoBasicDemo/app/caches/transforms-2/files-2.1/a5b6877bcea0689f47298d4df66df601/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

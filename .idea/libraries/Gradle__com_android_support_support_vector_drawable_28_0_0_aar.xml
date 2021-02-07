@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-vector-drawable:28.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BlunoBasicDemo/Android/BlunoBasicDemo/app/caches/transforms-2/files-2.1/514b55e0915d46b8819088761da98f27/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../BlunoBasicDemo/Android/BlunoBasicDemo/app/caches/transforms-2/files-2.1/514b55e0915d46b8819088761da98f27/res" />
+      <root url="file://$PROJECT_DIR$/../BlunoBasicDemo/Android/BlunoBasicDemo/app/caches/transforms-2/files-2.1/514b55e0915d46b8819088761da98f27/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:appcompat-v7:28.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../BlunoBasicDemo/Android/BlunoBasicDemo/app/caches/transforms-2/files-2.1/3862047fa24d8fd3d254a979b0224c27/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BlunoBasicDemo/Android/BlunoBasicDemo/app/caches/transforms-2/files-2.1/3862047fa24d8fd3d254a979b0224c27/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../BlunoBasicDemo/Android/BlunoBasicDemo/app/caches/transforms-2/files-2.1/3862047fa24d8fd3d254a979b0224c27/res" />
+      <root url="file://$PROJECT_DIR$/../BlunoBasicDemo/Android/BlunoBasicDemo/app/caches/transforms-2/files-2.1/3862047fa24d8fd3d254a979b0224c27/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

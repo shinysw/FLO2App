@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:animated-vector-drawable:28.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BlunoBasicDemo/Android/BlunoBasicDemo/app/caches/transforms-2/files-2.1/8a3bc95b54d2b4144a3fa4cbded36065/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../BlunoBasicDemo/Android/BlunoBasicDemo/app/caches/transforms-2/files-2.1/8a3bc95b54d2b4144a3fa4cbded36065/res" />
+      <root url="file://$PROJECT_DIR$/../BlunoBasicDemo/Android/BlunoBasicDemo/app/caches/transforms-2/files-2.1/8a3bc95b54d2b4144a3fa4cbded36065/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
